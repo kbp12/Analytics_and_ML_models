@@ -8,7 +8,7 @@ Created by Kedar Badrinath Pathade
 
 # K-Means Clustering
 #Projects: Customer Segmentation
-#A Company wants to identify segments of customers for targetted marketing.
+#A Company wants to identify segments of customers for targeted marketing.
 
 # Importing the libraries
 import matplotlib.pyplot as plt
